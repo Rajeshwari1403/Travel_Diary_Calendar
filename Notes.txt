@@ -1,1 +1,31 @@
-This App is Travel Diary Calendar
+Steps to update your changes
+1. Open terminal (or Git Bash/VS Code terminal) and go to your project:
+cd path/to/Travel_Diary_Calendar
+
+2.
+git remote -v
+
+3.
+origin  https://github.com/Rajeshwari1403/Travel_Diary_Calendar.git (fetch)
+origin  https://github.com/Rajeshwari1403/Travel_Diary_Calendar.git (push)
+
+4.
+git status
+Stage all the changed files:
+
+bash
+Copy
+Edit
+git add .
+Commit the changes with a message:
+
+bash
+Copy
+Edit
+git commit -m "Updated calendar UI and fixed travel date bug"
+Push your changes to GitHub:
+
+bash
+Copy
+Edit
+git push origin main
