@@ -1,15 +1,16 @@
 Steps to update your changes
-1. Open terminal (or Git Bash/VS Code terminal) and go to your project:
+1:
+Open terminal (or Git Bash/VS Code terminal) and go to your project:
 cd path/to/Travel_Diary_Calendar
 
-2.
+2:
 git remote -v
 
-3.
+3:
 origin  https://github.com/Rajeshwari1403/Travel_Diary_Calendar.git (fetch)
 origin  https://github.com/Rajeshwari1403/Travel_Diary_Calendar.git (push)
 
-4.
+4:
 git status
 
 git add .
