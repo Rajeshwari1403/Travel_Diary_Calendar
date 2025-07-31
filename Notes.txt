@@ -11,11 +11,7 @@ origin  https://github.com/Rajeshwari1403/Travel_Diary_Calendar.git (push)
 
 4.
 git status
-Stage all the changed files:
 
-bash
-Copy
-Edit
 git add .
 Commit the changes with a message:
 
